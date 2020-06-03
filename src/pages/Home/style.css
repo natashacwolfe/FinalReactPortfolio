@@ -1,24 +1,19 @@
-
 #about {
   flex-direction: column;
 }
-  .about {
-    display: flex;
-    justify-content: center;
-    height: -webkit-fill-available;
-    background: no-repeat;
-  }
-
-  .about-img {
-      height: 250px;
-      border-radius: 50%;
-  }
-
-  .about-me {
-    margin-top: 12%;
+.about {
+  display: flex;
+  justify-content: center;
+  height: -webkit-fill-available;
+  background: no-repeat;
 }
-
-
+.about-img {
+    height: 250px;
+    border-radius: 50%;
+}
+.about-me {
+  margin-top: 12%;
+}
 .home {
   display: flex;
   flex-direction: column;
@@ -29,7 +24,6 @@
     position: relative;
     top: 10%;
   }
-
   .intro {
     width: 85%;
   }

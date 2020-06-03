@@ -1,8 +1,6 @@
 import React from 'react';
 import './style.css';
 import NatashaText from '../../images/home-text.png';
-import { Link } from 'react-router-dom';
-
 
 function Home() {
     console.log("hiii")

@@ -2,8 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './style.css';
 
-function Navbar({ setPage }) {
-
+function Navbar(){
     return (
         <nav className='nav'>
             <ul className="nav-links">

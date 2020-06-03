@@ -6,10 +6,8 @@ import Contact from './pages/Contact/Contact';
 import About from './pages/About/About';
 import Navbar from "./components/Navbar";
 
-
 function App() {
 const [currentPage, setCurrentPage] = useState("home")
-
 function setPage(page) {
   setCurrentPage(page);
   console.log(page, currentPage)
@@ -38,6 +36,3 @@ function setPage(page) {
 }
 
 export default App;
-
-// 
-// 

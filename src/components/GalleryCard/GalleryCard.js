@@ -3,14 +3,10 @@ import "./style.css";
 import ProjectData from "../../utils/projectData";
 
 function GalleryCard() {
-
 return (
     <div className="text-container" id="projects">
-
     {ProjectData.map((project) => (
-
         <div key={project.id} className='gallery-card'>
-
         <img src={project.image} alt={project.title} style={{width: "200px"}} />
         <p className="project-title">{project.title}</p>
         <p className='tech-text'>{project.description}</p>
@@ -22,7 +18,6 @@ return (
         </div>
         </div>
     ))}
-  
     </div>
 )
 };
