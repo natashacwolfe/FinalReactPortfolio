@@ -2,7 +2,6 @@ import React from 'react';
 import GalleryCard from "../../components/GalleryCard/GalleryCard"
 
 function Projects() {
- 
     return (
         <div className="wrapper">
         <div className="page-header">

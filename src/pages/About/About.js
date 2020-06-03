@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import './style.css';
 
 function About() {
-    console.log("hiii")
     return (
         <div className='wrapper'>
             <div className="page-header">

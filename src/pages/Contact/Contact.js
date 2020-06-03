@@ -3,8 +3,7 @@ import './style.css';
 import LinkedIn from '../../images/linkedin.png';
 import GitHub from '../../images/github.png';
 import Resume from '../../images/resume.png';
-import PDF from '../../images/Resume.pdf'
-
+import PDF from '../../images/Resume.pdf';
 
 function Contact() {
     return (
