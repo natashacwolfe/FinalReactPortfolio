@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01ad1b6a.chunk.css",
+    "main.js": "/static/js/main.d66de93c.chunk.js",
+    "main.js.map": "/static/js/main.d66de93c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70301a4a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70301a4a.js.map",
+    "static/js/2.5b819354.chunk.js": "/static/js/2.5b819354.chunk.js",
+    "static/js/2.5b819354.chunk.js.map": "/static/js/2.5b819354.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c37834a7878e3f25f241ad0fb0a51094.js": "/precache-manifest.c37834a7878e3f25f241ad0fb0a51094.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.01ad1b6a.chunk.css.map": "/static/css/main.01ad1b6a.chunk.css.map",
+    "static/js/2.5b819354.chunk.js.LICENSE.txt": "/static/js/2.5b819354.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.08b9daa5.pdf",
+    "static/media/eats.png": "/static/media/eats.4b92caea.png",
+    "static/media/home-text.png": "/static/media/home-text.0e5932f8.png",
+    "static/media/natasha.jpg": "/static/media/natasha.1093090a.jpg",
+    "static/media/par.png": "/static/media/par.8afc4d4c.png",
+    "static/media/rambler.png": "/static/media/rambler.ae406b46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70301a4a.js",
+    "static/js/2.5b819354.chunk.js",
+    "static/css/main.01ad1b6a.chunk.css",
+    "static/js/main.d66de93c.chunk.js"
+  ]
+}
