@@ -13,19 +13,14 @@ function About() {
                 <div className='.img-div'>
                 <Link className="nav-link" to="/contact"><img title='Click to contact!'className='about-img grow' src={Natasha} alt="Natasha Wolfe" /></Link>
                 </div>
-                <div className="text-container">
+                <div className="text-container text-about">
                 <p>I'm a full stack web developer living in the beautiful Pacific Northwest.
                 <br />
                 <br />
                 Inspired by nature. When I am not coding, you can find me adventuring outside. </p>
                 <br />
                 <p>
-                From my past life as a hairstylist, I am eager to use my expertise of color theory, 
-                design, and passion for creating elevated user experiences and technology centered websites and applications. 
-                Driven by challenging goals and creative problem solving. 
-                Recently earned a certificate in full stack web development from the University of Washington having honed 
-                skills in JavaScript, NodeJS, React, and MySql and MongoDB databases. Ambitious about continuing to evolve 
-                my craft of coding.
+                From my past life as a hairstylist, I am eager to use my expertise of color theory, design, and passion for creating elevated user experiences and technology centered websites and mobile apps. Driven by ambitious goals and creative problem solving. Recently earned a certificate in full stack web development from the University of Washington having honed skills in JavaScript, Node.js, React, Express.js, MySQL and MongoDB databases. Enthusiastic about continuing to evolve my craft of coding.
                 </p>   
                 </div>
             </div>
